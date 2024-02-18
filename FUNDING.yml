@@ -1,3 +1,10 @@
 # These are supported funding model platforms
+# These are supported funding model platforms
 github: [magicdude4eva]
-custom: ["https://www.paypal.com/paypalme/GerdNaschenweng","https://crypto.com/app/ref6ayzqvp"] 
+custom: 
+  - "https://www.paypal.com/paypalme/GerdNaschenweng"
+  - "https://accounts.binance.com/register?ref=13896895"
+  - "https://www.kucoin.com/ucenter/signup?rcode=7wrbxe"
+  - "https://crypto.com/app/ref6ayzqvp"
+  - "https://dex.plutus.it/auth/referee/signup?refId=BUihTI" # Plutus Referral Link
+  # Add other referral or funding links as needed
